@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou leleodocapa</h1>
+<h1 align="center">Salve 👋, Eu sou o leleodocapa</h1>
 <h3 align="center">Um desenvolvedor Python apaixonado do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameriano1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="gameriano1" /> </p>
