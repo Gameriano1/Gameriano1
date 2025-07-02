@@ -1,4 +1,4 @@
-<h1 align="center">Salve 👋, Eu sou o leleodocapa</h1>
+<h1 align="center">Salve 👋, Eu sou o Leoni Frazão</h1>
 <h3 align="center">Um desenvolvedor Python apaixonado do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameriano1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="gameriano1" /> </p>
@@ -7,11 +7,11 @@
 
 - 🔭 Atualmente estou trabalhando em **Raxy-School**
 
-- 🌱 Atualmente estou aprendendo **HTML e CSS**
+- 🌱 Atualmente estou aprendendo **C# e C++**
 
-- 👯 Procuro colaborar em **Desenvolvimento de Websites e Automação**
+- 👯 Procuro colaborar em **Desenvolvimento de Websites e Automação, Desenvolvimento de sistemas**
 
-- 💬 Pergunte-me sobre **Python**
+- 💬 Pergunte-me sobre **Python ou C#**
 
 - 📫 Como me contatar **leoni.frazao.oliveira@gmail.com**
 
