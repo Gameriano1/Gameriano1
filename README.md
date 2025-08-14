@@ -1,13 +1,11 @@
-<h1 align="center">Salve 👋, Eu sou o Leoni Frazão</h1>
-<h3 align="center">Um desenvolvedor Python apaixonado do Brasil</h3>
+<h1 align="center">Salve, sou Leoni Frazão</h1>
+<h3 align="center">Um dev backend Brasileiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameriano1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="gameriano1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameriano1" alt="gameriano1" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **Raxy-School**
-
-- 🌱 Atualmente estou aprendendo **C# e C++**
+- 🌱 Atualmente estou aprendendo **C e Rust**
 
 - 👯 Procuro colaborar em **Desenvolvimento de Websites e Automação, Desenvolvimento de sistemas**
 
