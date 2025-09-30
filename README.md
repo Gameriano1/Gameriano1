@@ -1,85 +1,106 @@
-<h1 align="center">Salve, sou Leoni Frazão</h1>
-<h3 align="center">Um dev backend Brasileiro</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gameriano1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="gameriano1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameriano1" alt="gameriano1" /></a> </p>
-
-- 🌱 Atualmente estou aprendendo **C e Rust**
-
-- 👯 Procuro colaborar em **Desenvolvimento de Websites e Automação, Desenvolvimento de sistemas**
-
-- 💬 Pergunte-me sobre **Python ou C#**
-
-- 📫 Como me contatar **leoni.frazao.oliveira@gmail.com**
-
-- ⚡ Curiosidade **Tenho 17 anos**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<h1 align="center">Salve! Eu sou o Leoni Frazão 👋</h1>
+<p align="center">
+  Backend dev júnior • Python • C# • Java • SQL • C • JavaScript • CSS • Linux
+</p>
+<p align="center">
+  <a href="mailto:leoni.frazao.oliveira@gmail.com">✉️ E-mail</a> •
+  <a href="https://github.com/Gameriano1">🐙 GitHub</a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-    </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gameriano1&label=Visualiza%C3%A7%C3%B5es&style=flat" alt="visitas do perfil" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameriano1&show_icons=true&locale=pt-br&layout=compact" alt="gameriano1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gameriano1&show_icons=true&locale=pt-br" alt="gameriano1" /></p>
+## 🚀 Sobre mim
+- 📍 São Bernardo do Campo — SP  
+- 📚 **Estudando:** C e Rust  
+- 💬 **Pergunte-me sobre:** Python e C#  
+- 🤝 **Curto colaborar com:** desenvolvimento de websites, automação e sistemas  
+- 🏷️ **Organizações:** Datamace  
+- ⚡ **Curiosidade:** 17 anos
+
+---
+
+## 🧰 Stack & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3C78D8?logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Projetos em destaque
+- **RaxySchool** — Análise das faltas na rede estadual de SP usando dados da SED (relatórios, gráficos e insights).  
+  `Python • Pandas • Tkinter`  
+  🔗 https://github.com/Gameriano1/RaxySchool
+
+- **sistema-estudos** — Sistema de gestão de estudos (CLI + API REST) para acompanhar matérias e progresso.  
+  `JavaScript`  
+  🔗 https://github.com/Gameriano1/sistema-estudos
+
+- **VerificarOutlook** — Bot para verificação automática de contas Outlook com Selenium.  
+  `Python • Selenium`  
+  🔗 https://github.com/Gameriano1/VerificarOutlook
+
+- **contagenerator** — Geração automatizada de contas Microsoft a partir de arquivo de entrada.  
+  `Python`  
+  🔗 https://github.com/Gameriano1/contagenerator
+
+- **Raxy-Microsoft** — Automação educacional do Microsoft Rewards (contém aviso legal no README).  
+  `Python`  
+  🔗 https://github.com/Gameriano1/Raxy-Microsoft
+
+- **BotComprar** — Bot simples relacionado a compras de Robux na Microsoft Store.  
+  `HTML • Python`  
+  🔗 https://github.com/Gameriano1/BotComprar
+
+> 💡 *Observação:* use seus projetos em destaque como vitrine. Se quiser, posso reorganizar a ordem e escrever descrições curtas mais “vendedoras”.
+
+---
+
+## 📈 Métricas (opcionais)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gameriano1&show_icons=true&hide_border=true" alt="stats" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Gameriano1&hide_border=true" alt="streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameriano1&layout=compact&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🎯 Roadmap de estudos
+- [ ] Estruturas de dados e algoritmos (C)
+- [ ] Fundamentos de Rust (ownership/borrowing, lifetimes, crates)
+- [ ] Python avançado (fastAPI/Flask, automação, testes)
+- [ ] Testes e qualidade (pytest, TDD, CI no GitHub Actions)
+- [ ] Banco de dados (modelagem, SQL avançado, Índices)
+- [ ] Docker & Linux (bash, processos, permissões)
+- [ ] Boas práticas de backend (REST, autenticação, logging)
+
+---
+
+## 🤝 Como colaborar
+- Abra uma **Issue** com ideia/bug
+- Envie um **Pull Request** (descrição clara + prints/GIFs)
+- Siga o padrão de **branch** e **commit** convencionais
+
+---
+
+## 📫 Contato
+**leoni.frazao.oliveira@gmail.com**
+
+<p align="center">Feito com ❤️ e café.</p>
