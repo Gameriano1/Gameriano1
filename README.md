@@ -18,8 +18,7 @@
 - 📚 **Estudando:** C e Rust  
 - 💬 **Pergunte-me sobre:** Python e C#  
 - 🤝 **Curto colaborar com:** desenvolvimento de websites, automação e sistemas  
-- 🏷️ **Organizações:** Datamace  
-- ⚡ **Curiosidade:** 17 anos
+- ⚡ **Curiosidade:** 18 anos
 
 ---
 
