@@ -65,11 +65,10 @@
   `HTML • Python`  
   🔗 https://github.com/Gameriano1/BotComprar
 
-> 💡 *Observação:* use seus projetos em destaque como vitrine. Se quiser, posso reorganizar a ordem e escrever descrições curtas mais “vendedoras”.
 
 ---
 
-## 📈 Métricas (opcionais)
+## 📈 Métricas
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Gameriano1&show_icons=true&hide_border=true" alt="stats" />
 </p>
@@ -102,5 +101,3 @@
 
 ## 📫 Contato
 **leoni.frazao.oliveira@gmail.com**
-
-<p align="center">Feito com ❤️ e café.</p>
