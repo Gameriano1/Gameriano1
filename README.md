@@ -81,13 +81,13 @@
 ---
 
 ## 🎯 Roadmap de estudos
-- [ ] Estruturas de dados e algoritmos (C)
+- [x] Estruturas de dados e algoritmos (C)
 - [ ] Fundamentos de Rust (ownership/borrowing, lifetimes, crates)
-- [ ] Python avançado (fastAPI/Flask, automação, testes)
+- [x] Python avançado (fastAPI/Flask, automação, testes)
 - [ ] Testes e qualidade (pytest, TDD, CI no GitHub Actions)
 - [ ] Banco de dados (modelagem, SQL avançado, Índices)
 - [ ] Docker & Linux (bash, processos, permissões)
-- [ ] Boas práticas de backend (REST, autenticação, logging)
+- [x] Boas práticas de backend (REST, autenticação, logging)
 
 ---
 
