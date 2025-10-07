@@ -48,7 +48,7 @@
   `JavaScript`  
   🔗 https://github.com/Gameriano1/sistema-estudos
 
-- **brasfoot-save-editor** — CLI para edição de save-game do jogo Brasfoot 2021. 
+- **brasfoot-save-editor** — CLI para edição de save-game do jogo Brasfoot 2021.   
   `Java • Bash`  
   🔗 https://github.com/Gameriano1/brasfoot-save-editor
 
