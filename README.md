@@ -48,13 +48,9 @@
   `JavaScript`  
   🔗 https://github.com/Gameriano1/sistema-estudos
 
-- **VerificarOutlook** — Bot para verificação automática de contas Outlook com Selenium.  
-  `Python • Selenium`  
-  🔗 https://github.com/Gameriano1/VerificarOutlook
-
-- **contagenerator** — Geração automatizada de contas Microsoft a partir de arquivo de entrada.  
-  `Python`  
-  🔗 https://github.com/Gameriano1/contagenerator
+- **brasfoot-save-editor** — CLI para edição de save-game do jogo Brasfoot 2021. 
+  `Java • Bash`  
+  🔗 https://github.com/Gameriano1/brasfoot-save-editor
 
 - **Raxy-Microsoft** — Automação educacional do Microsoft Rewards (contém aviso legal no README).  
   `Python`  
